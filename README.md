@@ -1,9 +1,15 @@
-# Welcome to my Spring Boot project with Docker Compose! 🚀
+# Welcome to Lendinglane 🚀
 
-In this project, I have created a web application using Spring Boot and packaged it with Docker Compose. To run this project, follow the steps below:
+This is P2P lendiing platform that provides easy loan and investment options for Borrowers and Lenders. To run the program follow the below steps
+
+## System Requirements:
+- 8GB of RAM
+- 20GB of available storage
+- Intel Core i5 processor or equivalent
 
 ## Prerequisites:
-- Docker and Docker Compose installed on your system.
+- Docker installed on system.
 
 ## To run the project:
 1. Clone the repository to your local machine using the command:
+git clone https://github.com/ashutoshdas18/Lendinglane.git
